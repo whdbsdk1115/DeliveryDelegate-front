@@ -24,7 +24,7 @@
 https://www.erdcloud.com/d/hyRv9XbeEQ3WyTNv6
 
 ## Made With
-**Anroid**
+**Android**
  `Android Studio` `Kotlin`
  
 **Library**
